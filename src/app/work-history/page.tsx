@@ -16,7 +16,7 @@ const WorkHistory = () => {
   ]
 
   return (
-    <section className="py-16 px-6 min-h-screen">
+    <section id="work-history" className="py-16 px-6 min-h-screen">
       <div className="max-w-6xl mx-auto">
         {/* Header */}
         <div className="text-center mb-16">
