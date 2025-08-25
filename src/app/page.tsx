@@ -4,6 +4,7 @@ import NavBar from "./NavBar/page";
 import Projects from "./Projects/page";
 import Skills from "./Skills/page";
 import Testimonials from "./Testimonials/page";
+import WorkHistory from "./work-history/page";
 
 export default function Home() {
   return (
@@ -22,6 +23,8 @@ export default function Home() {
 
       {/**Testimonials */}
       <Testimonials/>
+
+      <WorkHistory/>
 
       {/**Contact Me */}
 
