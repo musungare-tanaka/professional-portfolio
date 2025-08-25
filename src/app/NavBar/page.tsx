@@ -9,7 +9,7 @@ const NavBar = () => {
     { name: 'Projects', href: '#projects' },
     { name: 'Skills', href: '#skills' },
     { name: 'Testimonials', href: '#testimonials' },
-    { name: 'Contact', href: '#contact' },
+    { name: 'Work History', href: '#work-history' },
   ];
 
   const toggleModal = () => {

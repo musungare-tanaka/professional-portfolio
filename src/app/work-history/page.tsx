@@ -21,10 +21,7 @@ const WorkHistory = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4 tracking-tight">
-            Organisations 
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-300 ml-3">
-              Worked For
-            </span>
+            Organisations Worked For
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-blue-300 mx-auto rounded-full"></div>
           <p className="text-blue-100 mt-6 text-lg max-w-2xl mx-auto leading-relaxed">
@@ -45,17 +42,15 @@ const WorkHistory = () => {
               {/* Content */}
               <div className="relative z-10 flex flex-col items-center text-center">
                 {/* Logo container with enhanced styling */}
-                <div className="relative mb-6 p-4 bg-slate-700/50 backdrop-blur-sm rounded-xl shadow-inner group-hover:shadow-lg transition-shadow duration-300 border border-slate-600">
-                  <div className="relative overflow-hidden rounded-lg bg-white p-2">
+                <div className="relative mb-6 p-4 bg-white rounded-xl shadow-lg border border-slate-600">
+                  <div className="relative overflow-hidden rounded-lg">
                     <Image 
                       src={company.logo} 
                       alt={company.alt} 
                       width={120} 
                       height={120}
-                      className="object-cover transition-transform duration-500 group-hover:scale-110 rounded-lg"
+                      className="object-cover rounded-lg"
                     />
-                    {/* Subtle overlay */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-cyan-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-lg"></div>
                   </div>
                 </div>
 
