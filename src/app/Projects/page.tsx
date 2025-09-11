@@ -146,7 +146,7 @@ const Projects = () => {
     },
      
     {
-      title: "Tanaka's AI Portfolio",
+      title: "Intaractive CV",
       description: "An interactive AI portfolio that showcases my projects and skills, featuring AI-driven insights and personalized content.",
       tags: ["typescript", "nextjs", "ui/ux","spring-ai","OpenAI","vector-database"],
       image: "/Images/self.png",
