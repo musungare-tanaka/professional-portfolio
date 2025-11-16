@@ -45,7 +45,7 @@ const Hero = () => {
           
           {/* Social icons */}
           <div className="flex space-x-3">
-            <a href="https://github.com/Tanaka878"
+            <a href="https://github.com/musungare-tanaka"
              target="_blank"
              rel="noopener noreferrer"
              className="flex items-center justify-center w-10 h-10 rounded-full border border-[#9333EA]   hover:text-white transition">

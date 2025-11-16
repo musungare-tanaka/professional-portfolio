@@ -129,7 +129,7 @@ const Projects = () => {
       description: "An AI-powered customer support assistant that automates ticket management and provides instant responses to user queries.",
       tags: ["java", "nextjs", "mongodb", "spring-ai","vector-database"],
       image: "/Images/customer-service-ai.webp",
-      github: "https://github.com/Tanaka878/SpringAI",
+      github: "https://github.com/musungare-tanaka/SpringAI",
       liveDemo: "https://joinai-support-assistant.vercel.app/"
 
     },
@@ -139,7 +139,7 @@ const Projects = () => {
       description: "A productivity application designed to enhance focus and time management through task tracking. It is Powered by Spring AI + OpenAI API. ",
       tags: ["java", "nextjs", "mongodb", "spring-ai","OpenAI"],
       image: "/Images/productivity.png",
-      github: "https://github.com/Tanaka878/Focus-Flow-Frontend",
+      github: "https://github.com/musungare-tanaka/Focus-Flow-Frontend",
       liveDemo: "https://focus-flow-frontend-nine.vercel.app"
 
     
@@ -150,7 +150,7 @@ const Projects = () => {
       description: "An interactive AI portfolio that showcases my projects and skills, featuring AI-driven insights and personalized content.",
       tags: ["typescript", "nextjs", "ui/ux","spring-ai","OpenAI","vector-database"],
       image: "/Images/self.png",
-      github: "https://github.com/Tanaka878/professional-portfolio",
+      github: "https://github.com/musungare-tanaka/professional-portfolio",
       liveDemo: "https://my-personal-ai-interface.vercel.app/"
     },
     {
@@ -158,7 +158,7 @@ const Projects = () => {
       description: "A group chat application to connect people with shared interests, featuring real-time messaging and community management tools.",
       tags: ["java", "nextjs", "mongodb"],
       image: "/Images/chat-app.jpg",
-      github: "https://github.com/Tanaka878/CommunityForumApp",
+      github: "https://github.com/musungare-tanaka/CommunityForumApp",
       liveDemo: "https://www.community-forum.co.zw/"
     },
     {
@@ -166,7 +166,7 @@ const Projects = () => {
       description: "A comprehensive web application that simulates modern banking operations with secure transactions and user management.",
       tags: ["react", "nodejs", "java"],
       image: "/Images/bankingDashboard.png",
-      github: "https://github.com/Tanaka878/Front-End",
+      github: "https://github.com/musungare-tanaka/Front-End",
       liveDemo: "https://front-end-gray-one.vercel.app/"
     },
     {
@@ -174,7 +174,7 @@ const Projects = () => {
       description: "A responsive portfolio website showcasing my skills, projects, and professional experience with modern design principles.",
       tags: ["typescript", "nextjs", "ui/ux"],
       image: "/Images/portfolio.png",
-      github: "https://github.com/Tanaka878/professional-portfolio",
+      github: "https://github.com/musungare-tanaka/professional-portfolio",
       liveDemo: "https://tanaka-musungare.vercel.app/"
     },
    
@@ -183,7 +183,7 @@ const Projects = () => {
       description: "An intelligent customer support ticketing system powered by AI for automated responses and efficient ticket management.",
       tags: ["typescript", "spring-ai", "java", "ui/ux", "nextjs"],
       image: "/Images/customer-support.avif",
-      github: "https://github.com/Tanaka878/joinai-support-dashboard",
+      github: "https://github.com/musungare-tanaka/joinai-support-dashboard",
       liveDemo: "https://joinai-support-dashboard.vercel.app/"
     },
     {
@@ -191,7 +191,7 @@ const Projects = () => {
       description: "A professional website showcasing health and wellness products with modern e-commerce features and responsive design.",
       tags: ["nextjs", "tailwind", "ui/ux"],
       image: "/Images/herbalLife.png",
-      github: "https://github.com/Tanaka878/HerbalClinic",
+      github: "https://github.com/musungare-tanaka/HerbalClinic",
       liveDemo: "https://save-a-man.vercel.app/"
     },
     {
@@ -199,7 +199,7 @@ const Projects = () => {
       description: "A comprehensive repository demonstrating various software design patterns with practical Java implementations for scalable code architecture.",
       tags: ["java"],
       image: "/Images/phone.png",
-      github: "https://github.com/Tanaka878/Design-Patterns"
+      github: "https://github.com/musungare-tanaka/Design-Patterns"
     }
   ];
 
